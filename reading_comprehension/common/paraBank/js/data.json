@@ -1,0 +1,71 @@
+{
+    "content":
+            {
+                "pb_001": {
+                    "genre": "Expository",
+                    "paragraph": {
+                        "0": {
+                            "indent": false,
+                            "lines": {
+                                "l1": {
+                                    "text": "Jingles the seal was floating on her new raft.",
+                                    "count": 0
+                                },
+                                "l2": {
+                                    "text": "She also had a new swim mask, and she was having a great time looking down into the sea.",
+                                    "count": 0
+                                }
+                               
+                            }
+                        },
+                        "1": {
+                            "indent": true,
+                            "lines": {
+                                "l3": {
+                                    "text": "\"The sea looks so beautiful,\" she thought to herself as she looked down to her right.",
+                                    "count": 0
+                                },
+                                "l4": {
+                                    "text": "\"The water is so clear and blue, and the sun is sparkling into it like bubbles of light.\"",
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "2": {
+                            "indent": true,
+                            "lines": {
+                                "l5": {
+                                    "text": "Jingles was curious about everything, and so next she looked down to her left.",
+                                    "count": 0
+                                },
+                                 "l6": {
+                                    "text": "\"There are Dipper and Spike! And there are Mike and Strummer swimming up to them.\"",
+                                    "count": 0
+                                },
+                                 "l7": {
+                                    "text": "Jingles looked through her mask again.",
+                                    "count": 0
+                                }
+                            }
+                        },
+                        "3": {
+                            "indent": true,
+                            "lines": {
+                                "l5": {
+                                    "text": " She thought to herself, \"They all look nervous.",
+                                    "count": 2
+                                },
+                                "l6": {
+                                    "text": "I wonder what could have frightened them?\"",
+                                    "count": 2
+                                }
+                            }
+                        }
+                       
+                    }
+                }
+            },
+    "audio":
+            {
+            }
+}

@@ -1,0 +1,398 @@
+{
+    "manifest":
+            {
+                "fileList":
+                        {
+                            "box1_js": "../../common/view/v_qtd11001/js/box1.json",
+                            "box1_img": "../../common/view/v_qtd11001/js/box1_images.json",
+                            "box2_js": "../../common/view/v_qtd11001/js/box2.json",
+                            "box2_img": "../../common/view/v_qtd11001/js/box2_images.json",
+                            "box3_js": "../../common/view/v_qtd11001/js/box3.json",
+                            "box3_img": "../../common/view/v_qtd11001/js/box3_images.json",
+                            "box4_js": "../../common/view/v_qtd11001/js/box4.json",
+                            "box4_img": "../../common/view/v_qtd11001/js/box4_images.json",
+                            "voc3i_images01": "../../common/view/v_qtd11001/images/e8s2.json",
+                            "voc3g_starBurst": "../../common/view/v_qtd11001/js/boxBurst.json",
+                            "voc3i_starBurst": "../../common/view/v_qtd11001/js/boxBurst_images.json",
+                            "voc3g_starBurst1": "../../common/view/v_qtd11001/js/circleBurst.json",
+                            "voc3i_starBurst1": "../../common/view/v_qtd11001/js/circleBurst_images.json"
+                        },
+                "data":
+                        {
+                            "videoProp":
+                                    [
+                                        {
+                                            "controls": "false",
+                                            "width": "1024",
+                                            "height": "768",
+                                            "z-index": "0"
+                                        }
+                                    ]
+                        },
+                "images_json": "voc3i_images01",
+                "vRequire": {
+                    "graphics": [
+                        {
+                            "path": "voc3g_starBurst"
+                        },
+                        {
+                            "path": "voc3g_starBurst1"
+                        },
+                        {
+                            "path": "box1_js"
+                        },
+                        {
+                            "path": "box2_js"
+                        },
+                        {
+                            "path": "box3_js"
+                        },
+                        {
+                            "path": "box4_js"
+                        }
+
+                    ],
+                    "image_js": [
+                        {
+                            "path": "voc3i_starBurst"
+                        },
+                        {
+                            "path": "voc3i_starBurst1"
+                        },
+                        {
+                            "path": "box1_img"
+                        },
+                        {
+                            "path": "box2_img"
+                        },
+                        {
+                            "path": "box3_img"
+                        },
+                        {
+                            "path": "box4_img"
+                        }
+                    ]
+                },
+                "content":
+                        [
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1681"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_449"
+                            },
+                            {
+                                "type": "wordBank",
+                                "ref": "wb_040"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1682"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1683"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1685"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_160"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1711"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1686"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1687"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1688"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1689"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_224"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_226"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_148"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1693"
+
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_768"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1694"
+                            },
+                            {
+                                "type": "wordBank",
+                                "ref": "wb_123"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1695"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1696"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1697"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1698"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1699"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1700"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1701"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1702"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_171"
+                            },
+                            {
+                                "type": "audBank",
+                                "ref": "ab_106"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1875"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1703"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1704"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1714"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1705"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1706"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1707"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1708"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1710"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1713"
+                            },
+                            {
+                                "type": "audBank",
+                                "ref": "ab_168"
+                            },
+                            {
+                                "type": "audBank",
+                                "ref": "ab_169"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_4505"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1692"
+                            }
+
+
+
+                            ,
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_17000",
+                                "comment": "added by ashish"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_14501"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_4510"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_4511"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_4513"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_17011"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_4512"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_17012"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_2818"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_17014"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_17015"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_17016"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1864"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_225"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_1690"
+                            },
+                            {
+                                "type": "sensBank",
+                                "ref": "sb_2512"
+                            }
+
+
+                        ],
+                "customData":
+                        {
+                            "bgImages":
+                                    {
+                                        "name": "bg.png"
+                                    },
+                            "animations":
+                                    {
+                                        "pageTurn":
+                                                {
+                                                    "in":
+                                                            {
+                                                                "jsfl": "pageTurn",
+                                                                "startFrame": 1,
+                                                                "endFrame": 1
+
+                                                            },
+                                                    "out":
+                                                            {
+                                                                "jsfl": "pageTurn",
+                                                                "startFrame": 1,
+                                                                "endFrame": 8
+                                                            }
+                                                },
+                                        "starBurst":
+                                                {
+                                                    "type": {
+                                                        "box":
+                                                                {
+                                                                    "jsfl": "boxBurst",
+                                                                    "startFrame": 1,
+                                                                    "endFrame": 9
+                                                                },
+                                                        "circle":
+                                                                {
+                                                                    "jsfl": "circleBurst",
+                                                                    "startFrame": 1,
+                                                                    "endFrame": 5
+                                                                }
+                                                    }
+                                                }
+
+
+                                    },
+                            "starBurstSound": ["ab_audio_97"],
+                            "paraDiv": {
+                                "fontFamily": "Times new roman",
+                                "fontSize": 1.3,
+                                "left": 358,
+                                "top": 47,
+                                "width": 603,
+                                "lineHeight": 30,
+                                "wordSpacing": -2,
+                                "height": "auto"
+                            },
+                            "qtnDiv": {
+                                "width": 738,
+                                "lineHeight": 43,
+                                "marginTop": 30,
+                                "word-spacing": 0.03,
+                                "fontStyle": "italic",
+                                "height": "auto"
+                            },
+                            "picDiv":
+                                    {
+                                        "imgSrc": "findFact1.png",
+                                        "left": 800,
+                                        "top": 534,
+                                        "width": 144,
+                                        "height": 133
+                                    }
+
+                        }
+
+            }
+} 

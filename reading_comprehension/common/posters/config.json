@@ -1,0 +1,353 @@
+{
+    "reading_comprehension": {
+        "data": {
+            "eposides": {
+                  "09": {
+                    "segments": {
+                        "1": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "2": {
+                            "required": false,
+
+                            "transition": "19bubble"
+                        },
+                        "3": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "4": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "5": {
+                            "required": false,
+
+                            "transition": "19bubble"
+                        },
+                        "6": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "7": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "8": {
+                            "required": false,
+
+                            "transition": ""
+                        }
+                    }
+                },
+                "10": {
+                    "segments": {
+                        "1": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "2": {
+                            "required": false,
+
+                            "transition": "15fishWave"
+                        },
+                        "3": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "4": {
+                            "required": false,
+
+                            "transition": "17fishFountan"
+                        },
+                        "5": {
+                            "required": false,
+
+                            "transition": "15fishWave"
+                        },
+                        "6": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "7": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "8": {
+                            "required": false,
+
+                            "transition": ""
+                        }
+                    }
+                },
+                "11": {
+                    "segments": {
+                        "1": {
+                            "required": false,
+                            "transition": ""
+                        },
+                        "2": {
+                            "required": true,
+                            "lastframe": true,
+                            "transition": "19bubble",
+                            "audio": "19bubble.mp3"
+                        },
+                        "3": {
+                            "required": true,
+                            "transition": "18Wave_11_3",
+                            "audio": "18Wave.mp3"
+                        },
+                        "4": {
+                            "required": true,
+                            "transition": "16turtle",
+                            "audio": "16turtle.mp3"
+                        },
+                        "5": {
+                            "required": false,
+
+                            "transition": "20twister"
+                        },
+                        "6": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "7": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "8": {
+                            "required": false,
+
+                            "transition": "16turtleBlack"
+                        },
+                        "9": {
+                            "required": false,
+
+                            "transition": "20twister"
+                        },
+                        "10": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "11": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "12": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "13": {
+                            "required": false,
+
+                            "transition": ""
+                        }
+                    }
+                },
+                 "12": {
+                    "segments": {
+                        "1": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "2": {
+                            "required": false,
+
+                            "transition": "22bubbleWave"
+                        },
+                        "3": {
+                            "required": false,
+
+                            "transition": "21starZoomInZooOu1"
+                        },
+                        "4": {
+                            "required": false,
+
+                            "transition": "15fishWave"
+                        },
+                        "5": {
+                            "required": false,
+
+                            "transition": "17fishFountan"
+                        },
+                        "6": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "7": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "8": {
+                            "required": false,
+
+                            "transition": "15fishWave"
+                        },
+                        "9": {
+                            "required": false,
+
+                            "transition": "17fishFountan"
+                        },
+                        "10": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "11": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "12": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "13": {
+                            "required": false,
+
+                            "transition": ""
+                        }
+                    }
+                },
+                "13": {
+                    "segments": {
+                        "1": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "2": {
+                            "required": false,
+
+                            "transition": "22bubbleWave"
+                        },
+                        "3": {
+                            "required": false,
+
+                            "transition": "19bubble"
+                        },
+                        "4": {
+                            "required": false,
+
+                            "transition": "16turtleBlack"
+                        },
+                        "5": {
+                            "required": false,
+
+                            "transition": "23seaWaveRef"
+                        },
+                        "6": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "7": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "8": {
+                            "required": false,
+
+                            "transition": "16turtleBlack"
+                        },
+                        "9": {
+                            "required": false,
+
+                            "transition": "23seaWaveRef"
+                        },
+                        "10": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "11": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "12": {
+                            "required": false,
+
+                            "transition": ""
+                        },
+                        "13": {
+                            "required": false,
+
+                            "transition": ""
+                        }
+                    }
+                }
+            },
+            "transitions": {
+                "19bubble": {
+                    "startFrame": 1,
+                    "endFrame": 11
+                },
+                "18blackWave": {
+                    "startFrame": 1,
+                    "endFrame": 29
+                },
+                "16turtleBlack": {
+                    "startFrame": 1,
+                    "endFrame": 25
+                },
+                "16turtleTransp": {
+                    "startFrame": 1,
+                    "endFrame": 25
+                },
+                "20twister": {
+                    "startFrame": 1,
+                    "endFrame": 22
+                },
+                "15fishWave": {
+                    "startFrame": 1,
+                    "endFrame": 20
+                },
+                "17fishFountan": {
+                    "startFrame": 1,
+                    "endFrame": 21
+                },
+                "22bubbleWave": {
+                    "startFrame": 1,
+                    "endFrame": 22
+                },
+                "21starZoomInZooOu1": {
+                    "startFrame": 1,
+                    "endFrame": 17
+                },
+                "23seaWaveRef": {
+                    "startFrame": 1,
+                    "endFrame": 38
+                },
+                "16turtle": {
+                    "startFrame": 1,
+                    "endFrame": 25
+                },
+                "18Wave_11_3": {
+                    "startFrame": 1,
+                    "endFrame": 29
+                }
+            }
+        }
+    }
+}
